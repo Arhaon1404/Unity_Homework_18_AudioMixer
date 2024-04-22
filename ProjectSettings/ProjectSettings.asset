@@ -769,11 +769,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: f68af673-50f7-4ebc-b614-32aa0a9e00f0
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: Unity_Homework_18_AudioMixer
+  organizationId: niikholm
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
